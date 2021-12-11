@@ -36,7 +36,7 @@
 
  */ 
 
-pragma solidity ^0.6.2;
+pragma solidity ^0.6.12;
 
 import "./IUniswapV2Pair.sol";
 import "./IUniswapV2Factory.sol";
